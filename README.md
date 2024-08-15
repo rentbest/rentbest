@@ -10,4 +10,4 @@
 - 🏃 My hobby is long-distance running
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rentbest &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rentbest&theme=radical)
